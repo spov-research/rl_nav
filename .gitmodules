@@ -1,0 +1,4 @@
+[submodule "rl_nav"]
+	path = rl_nav
+	url = https://github.com/spov-research/rl_nav.git
+	branch = main
